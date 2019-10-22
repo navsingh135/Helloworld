@@ -1,0 +1,3 @@
+import super?fanz
+
+super?fancz.letsGo(Partz)
